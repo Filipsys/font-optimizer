@@ -8,6 +8,7 @@ Font optimizer plugin for Vite to lower the size of font files getting sent to t
 - [ ] Find the font files in the project.
 - [ ] Check the used letters in the html files, possibly separate different pages.
 - [ ] Get the font file format, read the file and create an optimized font file to the page, containing only the necessary letters.
+- [ ] Have the option to pick from fonts, set font blacklists/whitelists, check HTML & CSS files for which font files are used, possibly create multiple files for viewports (what the user initially sees, the rest of the font will be loaded in after)
 
 ### Support font file types TODO:
 
